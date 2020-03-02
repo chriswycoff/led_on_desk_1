@@ -5,4 +5,13 @@ Uses an IR remote to swap functions
 
 See arduino code for pin values or make your own!
 
+The desk
+<img src="images/full_desk.png"
+     alt="images/full_desk.png"
+     style=" width: 200px height 300px" />
 
+The controller
+
+<img src="images/the_controller.png"
+     alt="images/the_controller.png"
+     style=" width: 200px height 300px" />
