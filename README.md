@@ -12,6 +12,6 @@ The desk
 
 The controller
 
-<img src="images/the_controller.png"
-     alt="images/the_controller.png"
+<img src="images/controller.png"
+     alt="images/controller.png"
      style=" width: 200px height 300px" />
